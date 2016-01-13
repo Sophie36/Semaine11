@@ -13,9 +13,9 @@ body {
 
 #en_tete img{
     width:30%;   
-    height:40%;
+    height:60%;
     display:block;
-    margin:auto;
+    margin:250px;
 }
 
 /* Form */
@@ -35,9 +35,9 @@ body {
 
 .container {
     position: relative;
-    width: 500px;
-    height: 150px;
-    margin: 0 auto;
+    width: 30%;
+    height: 60%;
+    margin:250px;
     color: #575e72;
     background: #262b37;
     padding: 30px;
