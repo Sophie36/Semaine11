@@ -1,0 +1,92 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  text-align: justify;
+  width: 150%;
+  margin: 0;
+  margin-top: 400px;
+  padding: 0;
+  overflow-x: hidden;
+  background-image:url(../css/purty_wood_@2X.png);
+}
+
+#en_tete img{
+    width:30%;   
+    height:40%;
+    display:block;
+    margin:auto;
+}
+
+/* Form */
+
+#msg {
+    display: none;
+    width: 100%;
+    height: 50px;
+    background: #16322E;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+    position: absolute;
+    bottom: 0;
+    line-height: 50px;
+}
+
+.container {
+    position: relative;
+    width: 500px;
+    height: 150px;
+    margin: 0 auto;
+    color: #575e72;
+    background: #262b37;
+    padding: 30px;
+    text-align: center;
+}
+
+input {
+    width: 400px;
+    height: 38px;
+    margin: 20px 0 10px 5px;
+    padding: 0 18px;
+    background: #474d5d;
+    border: 0;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    outline: none;
+    color: #92959e;
+    text-align: center;
+}
+
+button {
+    width: 150px;
+    height: 40px;
+    padding: 0;
+    margin: 20px 10px;
+    background: #00bdbd;
+    border: 0;
+    cursor: pointer;
+    font-size: 16px;
+    color: #FFF;
+    line-height: 16px;
+    text-align: center;
+}
+
+button:hover {
+    background: #00dc7c;
+    color: #FFF;
+}
+
+
+
+#btnRefresh {
+    display:none;
+}
+
+p {
+    margin: 5px;
+    padding-bottom: 10px;
+    font-size: 16px;
+    color: #FFF;
+    line-height: 30px;
+}
